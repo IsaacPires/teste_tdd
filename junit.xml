@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CLI Arguments" tests="9" assertions="18" errors="0" failures="0" skipped="0" time="0.009629">
+    <testsuite name="Alura\Leilao\Testes\Service\AvaliadorTest" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" tests="9" assertions="18" errors="0" failures="0" skipped="0" time="0.009629">
+      <testsuite name="Alura\Leilao\Testes\Service\AvaliadorTest::testEncontrarMaiorValor" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="0.008071">
+        <testcase name="testEncontrarMaiorValor with data set #0" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="29" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="1" time="0.007699"/>
+        <testcase name="testEncontrarMaiorValor with data set #1" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="29" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="1" time="0.000208"/>
+        <testcase name="testEncontrarMaiorValor with data set &quot;ordem-Aleatoria&quot;" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="29" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="1" time="0.000164"/>
+      </testsuite>
+      <testsuite name="Alura\Leilao\Testes\Service\AvaliadorTest::testEncontrarMenorValor" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="0.000578">
+        <testcase name="testEncontrarMenorValor with data set #0" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="45" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="1" time="0.000205"/>
+        <testcase name="testEncontrarMenorValor with data set #1" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="45" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="1" time="0.000189"/>
+        <testcase name="testEncontrarMenorValor with data set &quot;ordem-Aleatoria&quot;" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="45" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="1" time="0.000184"/>
+      </testsuite>
+      <testsuite name="Alura\Leilao\Testes\Service\AvaliadorTest::testeBusca3MaioresValores" tests="3" assertions="12" errors="0" failures="0" skipped="0" time="0.000980">
+        <testcase name="testeBusca3MaioresValores with data set #0" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="60" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="4" time="0.000503"/>
+        <testcase name="testeBusca3MaioresValores with data set #1" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="60" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="4" time="0.000221"/>
+        <testcase name="testeBusca3MaioresValores with data set &quot;ordem-Aleatoria&quot;" file="C:\Projetos\tdd\tests\Service\AvaliadorTest.php" line="60" class="Alura\Leilao\Testes\Service\AvaliadorTest" classname="Alura.Leilao.Testes.Service.AvaliadorTest" assertions="4" time="0.000257"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

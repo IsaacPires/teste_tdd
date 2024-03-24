@@ -1,0 +1,19 @@
+Avaliador (Alura\Leilao\Testes\Service\Avaliador)
+ [x] Encontrar maior valor with data set "ordem-crescente"
+ [x] Encontrar maior valor with data set "ordem-decrescente"
+ [x] Encontrar maior valor with data set "ordem-Aleatoria"
+ [x] Encontrar menor valor with data set "ordem-crescente"
+ [x] Encontrar menor valor with data set "ordem-decrescente"
+ [x] Encontrar menor valor with data set "ordem-Aleatoria"
+ [x] E busca 3 maiores valores with data set "ordem-crescente"
+ [x] E busca 3 maiores valores with data set "ordem-decrescente"
+ [x] E busca 3 maiores valores with data set "ordem-Aleatoria"
+ [x] Lanca excessao em leilao vazio
+ [x] Leilao finalizado nao pode ser avaliado
+
+Leilao
+ [x] Nao receber mais de 5 lances por user
+ [x] Sem receber lances repetidos
+ [x] Recebe lances with data set "dois-lances"
+ [x] Recebe lances with data set "um-lance"
+
